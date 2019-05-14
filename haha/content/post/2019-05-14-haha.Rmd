@@ -1,0 +1,10 @@
+---
+title: haha
+author: 张净沿
+date: '2019-05-14'
+slug: haha
+categories: []
+tags: []
+---
+无聊
+困
